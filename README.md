@@ -5,7 +5,7 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakonako4&show_icons=true&locale=en&layout=donut&theme=transparent" alt="nakonako4" /></p>
 
-* Chat with me :)
+* 🌐 Chat with me :)
   
 * 📫 NAKOdesu4@gmail.com
 
