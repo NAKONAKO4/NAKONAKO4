@@ -11,6 +11,9 @@
 
 * 💻 Conducting researches on **AI** and **History of Literature**.
 
-* <a target="_blank" href="https://icons8.com/icon/5E24fZ9ORelo/bilibili">Bilibili</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+* <img src="https://github.com/NAKONAKO4/NAKONAKO4/blob/main/icons8-bilibili-48.png" alt="icon">
+
+
+<a target="_blank" href="https://icons8.com/icon/5E24fZ9ORelo/bilibili">Bilibili</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
