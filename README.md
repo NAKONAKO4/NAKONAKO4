@@ -1,5 +1,5 @@
 <p align="center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A0F7&width=435&lines=NAKONAKO4;A+climber%7CUndergraduate%7CLearning%F0%9F%93%96;AI%7CComputational+Physics%7CStatistical+Physics" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=02A0F7&center=true&multiline=true&width=435&lines=NAKONAKO4%F0%9F%A6%8A;A+climber%7CUndergraduate%7CLearning%F0%9F%93%96;AI%7CComputational+Physics%7CStatistical+Physics" alt="Typing SVG" /></a>
   </p>
 <h3 align="center">A climber. Chat with me :)</h3>
 <h3 align="center">📫 NAKOdesu4@gmail.com</h3>
