@@ -11,7 +11,7 @@
 
 * 💻 Conducting researches on **AI** and **History of Literature**.
 
-* <img src="https://github.com/NAKONAKO4/NAKONAKO4/blob/main/icons8-bilibili-48.png" alt="icon" weight="24" height="24"><a target="_blank" href="https://space.bilibili.com/44976924?spm_id_from=333.1007.0.0">Some videos, maybe tutorial videos are on their ways.</a>
+* <img align="center" src="https://github.com/NAKONAKO4/NAKONAKO4/blob/main/icons8-bilibili-48.png" alt="icon" weight="24" height="24"><a target="_blank" href="https://space.bilibili.com/44976924?spm_id_from=333.1007.0.0">Some videos.</a> Maybe tutorial videos are on their ways.
 
 
 <a target="_blank" href="https://icons8.com/icon/5E24fZ9ORelo/bilibili">Bilibili</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
