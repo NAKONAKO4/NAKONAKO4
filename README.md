@@ -5,6 +5,12 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakonako4&show_icons=true&locale=en&layout=donut&theme=transparent" alt="nakonako4" /></p>
 
-<h3 align="center">📫 NAKOdesu4@gmail.com</h3>
+* Chat with me :)
+  
+* 📫 NAKOdesu4@gmail.com
+
+* 💻 Conducting researches on **AI** and **History of Literature**.
+
+* <a target="_blank" href="https://icons8.com/icon/5E24fZ9ORelo/bilibili">Bilibili</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
