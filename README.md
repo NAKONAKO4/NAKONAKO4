@@ -21,7 +21,7 @@
   
 * 📫 NAKOdesu4@gmail.com
 
-* 💻 Conducting researches on **AI** and **History of Literature**.
+* 💻 Conducting researches on **AI**.
 
 * <img align="center" src="https://github.com/NAKONAKO4/NAKONAKO4/blob/main/icons8-bilibili-48.png" alt="icon" weight="24" height="24"><a target="_blank" href="https://space.bilibili.com/44976924?spm_id_from=333.1007.0.0">Some videos.</a> Maybe tutorial videos are on their ways.
 
